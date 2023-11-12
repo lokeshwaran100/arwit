@@ -1,0 +1,45 @@
+{
+  "manifest": "arweave/paths",
+  "version": "0.1.0",
+  "index": {
+    "path": "index.html"
+  },
+  "paths": {
+    "css/style.css": {
+      "id": "zvBAIxYszQtYO1FTtzSwHShcCOWS2Ci4tfYg7MOvlOY"
+    },
+    "img/about.jpg": {
+      "id": "rowpCXdZx_8VL7WPtzzCNimumdxnsdx-uaxTooyGbyY"
+    },
+    "img/bg-image.jpg": {
+      "id": "Z4kkj-HDc1LW7I7pe3R-e9f01AM8Jeud8fuT6lMi1Eg"
+    },
+    "img/feature.jpg": {
+      "id": "wszdDgV1u-wp5zRxs1Qh7idrlvxIrStzZ6DwWjjIdE4"
+    },
+    "img/header.jpg": {
+      "id": "hX6AndUK6kv_pAPaXMEXphb9pctjCw2i1Fsr8gRtmjk"
+    },
+    "img/overlay-bottom.png": {
+      "id": "fFe6LUCZx8BKHkKgqGxQwzginjLqsnypIwWSeILJwYc"
+    },
+    "img/overlay-top.png": {
+      "id": "4LoGPNU_VCwcTNr0XAAmiN4C5rJBnUE0gHNGTqCL4Tc"
+    },
+    "index.html": {
+      "id": "21LC4qQJKA_FlglRkSdnH7p1Ad1HDHhbwsVXx17HE0c"
+    },
+    "js/main.js": {
+      "id": "fiewHj6afOfnX7Iodak6TNXNV1OmpsOZxPwcHubESxg"
+    },
+    "lib/counterup/counterup.min.js": {
+      "id": "JEhsFsSXeDRGRw4pvVHwP4qWLna-fRRLYnjeN8MueG8"
+    },
+    "lib/waypoints/links.php": {
+      "id": "CXf5LFbEFJBqsqNH6IoLRuLxvEXlp0Yb_S2_13x7cFs"
+    },
+    "lib/waypoints/waypoints.min.js": {
+      "id": "-X3hoKhEjTJlyX45-RGF_1OFYObpI0uDdg6wdnlKGqE"
+    }
+  }
+}
